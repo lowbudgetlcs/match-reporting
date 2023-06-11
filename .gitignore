@@ -1,0 +1,6 @@
+.env
+function/node_modules
+form/.clasp.json
+form/appsscript.json
+
+
