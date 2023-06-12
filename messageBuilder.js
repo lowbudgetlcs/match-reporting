@@ -91,6 +91,5 @@ exports.messageBuilder = (req, res) => {
         console.log(e);
         return;
     }
-
 };
 
